@@ -13,7 +13,7 @@ class BallPage extends StatelessWidget {
           backgroundColor: Colors.blue[900],
           title: Text('Ask Me Enything'),
         ),
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.black,
         body: SafeArea(
           child: Container(),
         ),
